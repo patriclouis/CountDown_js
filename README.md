@@ -9,8 +9,8 @@ Samples:
 
 In the HTML file, you can insert the following codes between "\<body> ... \</body>", i. e.,
 
-<b><font color="#0000FF">There are only </font><font color="#FF0000"<span id="countdowndays" style="align: center"></span>
-</font>&nbsp;<font color="#0000FF">before the deadline of CVPR2014.</font></b><br>
+"\<b>\<font color="#0000FF">There are only \</font>\<font color="#FF0000"\<span id="countdowndays" style="align: center">
+\</span>\</font>\&nbsp;\<font color="#0000FF">before the deadline of CVPR2014.\</font>\</b>\<br>"
 
 <script type="text/javascript" src="js/countdown.js"></script>
 
