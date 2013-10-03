@@ -7,11 +7,10 @@ Created by patriclouis @ ZJU on Oct. 3, 2013.
 ********************
 Samples:
 
-In the HTML file, you can insert the following codes between <body> ... </body>, i. e.,
+In the HTML file, you can insert the following codes between "\<body> ... \</body>", i. e.,
 
 <b><font color="#0000FF">There are only </font><font color="#FF0000"<span id="countdowndays" style="align: center"></span>
-</font>&nbsp;<font color="#0000FF">before the deadline of <a href="http://www.pamitc.org/cvpr14/" target="_blank">CVPR2014
-</a></font></b>.<br>
+</font>&nbsp;<font color="#0000FF">before the deadline of CVPR2014.</font></b><br>
 
 <script type="text/javascript" src="js/countdown.js"></script>
 
